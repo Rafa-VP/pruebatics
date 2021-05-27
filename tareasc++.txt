@@ -1,1 +1,5 @@
-Doc 1
+Primera tarea de c++
+PUCESE
+Esmeraldas,
+
+En esta asignatura se habla del lenguaje de programación c++
